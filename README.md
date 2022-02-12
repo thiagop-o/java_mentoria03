@@ -9,7 +9,7 @@
 Nossa API se comunicará com um banco de Dados NoSQL(Mongo) e nele teremos a seguinte estrutura:</p>
 
 
-TABELA CARDAPIO 
+TABELA ESTOQUE
 
 
 Campo           |    Tipo                | Exemplo    | 
