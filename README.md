@@ -18,20 +18,11 @@ chaveParticao   | String(pk)             | Hamburger  |
 chaveFiltragem  | String(sk)             | Bovino     | 
 dataAtualizacao | LocalDate(yyyy-MM-dd)  | 2022-02-10 | 
 pao             | Enum                   | Brioche    | 
-acompanhamentos | List                   |            | 
-
-
-LISTA ACOMPANHAMENTOS
-
-
-Campo           |    Tipo           | Exemplo| 
----------       | -------           | ------ | 
+proteina             | String                | Carne    | 
 alface          | Quantidade(int)   | 200    |
 tomate          | Quantidade(int)   | 200    |
 queijo          | Quantidade(int)   | 200    | 
 picles          | Quantidade(int)   | 200    |
-
-
 
 
 
